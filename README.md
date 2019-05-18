@@ -1,2 +1,2 @@
-# Dice-App
 # Dicee
+My first iOS App.
